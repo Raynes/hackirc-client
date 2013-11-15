@@ -1,14 +1,11 @@
 # hackirc
 
-A Clojure library designed to ... well, that part is up to you.
+This is just a little client for a simple IRC-like chat server. It was written
+in approximately 3 seconds during the November 2013 LA Clojure meetup.
 
-## Usage
-
-FIXME
+The spec is [here](https://github.com/amalloy/hackirc/blob/master/src/hackirc/server.clj).
 
 ## License
-
-Copyright © 2013 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
